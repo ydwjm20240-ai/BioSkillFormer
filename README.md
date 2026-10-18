@@ -13,7 +13,7 @@ BioSkillFormer integrates synchronized multi-sensor streams collected during ath
 
 ## Installation
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/BioSkillFormer.git
+git clone https://github.com/ydwjm20240-ai/BioSkillFormer.git
 cd BioSkillFormer
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
